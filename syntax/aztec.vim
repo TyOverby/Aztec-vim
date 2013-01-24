@@ -23,4 +23,4 @@ highlight link stech_para Comment
 highlight link stech_para_start Special
 highlight link stech_inline_math Function
 
-let b:current_syntax = "stech"
+let b:current_syntax = "aztec"
